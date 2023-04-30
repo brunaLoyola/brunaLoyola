@@ -11,26 +11,34 @@
 <div align="center" >
 <p>Olá e bem-vindo ao meu GitHub!</p>
 <p> Meu nome é Bruna Loyola, tenho 20 anos. Sou apaixonada por tecnologia e no ano de 2022 me formei no curso Técnico de Informática no IFPR(Instituto Federal do Paraná)</p>
-<p>No momento estou ampliando meu conhecimento no curso de Desenvolvimento da Trybe. Tenho trabalhado em diferentes projetos e explorado diversas linguagens de programação</p>
+<p>No momento estou ampliando meu conhecimento no curso de Desenvolvimento Web na Trybe. Tenho trabalhado em diferentes projetos e explorado diversas linguagens de programação</p>
 
 <p>Neste perfil, você encontrará alguns dos meus projetos e trabalhos desenvolvidos. Sinta-se à vontade para entrar em contato comigo caso queira trocar ideias ou colaborar em algum projeto!</p>
 </div>
 <br>
 <br>
 
-### Languages and Tools 🛠 
+### Linguagens e Ferramentas 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Todo](https://img.shields.io/badge/Todoist-E44332?style=flat-square&logo=todoist&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![EsLint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=flat-square&&logo=testing-library&logoColor=red)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![StyleLint](https://img.shields.io/badge/stylelint-000?style=flat-square&logo=stylelint&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunaLoyola&show_icons=true&count_private=true&hide_border=true&title_color=e5245b&icon_color=1c2120&text_color=1c2120&bg_color=ffc2ca" alt="Bruna Loyola github stats" /> 
@@ -38,3 +46,17 @@
   </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunaLoyola&bg_color=ffc2ca&line=e5245b&point=1c2120&title_color=e5245b&color=1c2120	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Linguagens e Ferramentas que pretendo dominar futuramente 🛠 
+
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
