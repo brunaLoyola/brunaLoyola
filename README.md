@@ -45,8 +45,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaLoyola&layout=compact&hide_border=true&title_color=e5245b&text_color=1c21200&bg_color=ffc2ca" />
   </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunaLoyola&bg_color=ffc2ca&line=e5245b&point=1c2120&title_color=e5245b&color=1c2120)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Linguagens e Ferramentas que pretendo dominar futuramente 🛠 
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -60,3 +58,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![C](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
+
+
+### Certificados 
+
+  <img src="https://github.com/brunaLoyola/exercicios-antigos/assets/51630262/474accc4-fa35-4eb8-95fe-9c19598a5f53"  width="500" height='400' >
+  <img src="https://github.com/brunaLoyola/exercicios-antigos/assets/51630262/979190f5-f007-49f0-9a45-8684c798c380"  width="500" height='400' >
