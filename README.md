@@ -45,7 +45,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaLoyola&layout=compact&hide_border=true&title_color=e5245b&text_color=1c21200&bg_color=ffc2ca" />
   </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunaLoyola&bg_color=ffc2ca&line=e5245b&point=1c2120&title_color=e5245b&color=1c2120	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunaLoyola&bg_color=ffc2ca&line=e5245b&point=1c2120&title_color=e5245b&color=1c2120)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Linguagens e Ferramentas que pretendo dominar futuramente 🛠 
 
